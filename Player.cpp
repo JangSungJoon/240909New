@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int Player::Movement(char PlayerInput)
+int Player::Movement(char PlayerInput, int Maxmapsize)
 {
 	switch (PlayerInput)
 	{
@@ -22,26 +22,24 @@ int Player::Movement(char PlayerInput)
 		{
 			PlayerX = 0;
 			cout << "Invalid Try Again" << endl;
-			break;
 		}
 		break;
 		
 	case 's':
 		PlayerY++;
-		if (PlayerY > 3)
+		if (PlayerY > Maxmapsize)
 		{
-			PlayerY = 3;
+			PlayerY = Maxmapsize;
 			cout << "Invalid Try Again" << endl;
 		}
 		break;
 
 	case 'd':
 		PlayerX++;
-		if (PlayerX > 3)
+		if (PlayerX > Maxmapsize)
 		{
-			PlayerX = 3;
+			PlayerX = Maxmapsize;
 			cout << "Invalid Try Again" << endl;
-			break;
 		}
 		break;
 

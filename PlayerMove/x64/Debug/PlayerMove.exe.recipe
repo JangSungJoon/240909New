@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\admin\source\repos\PlayerMove\x64\Debug\PlayerMove.exe</FullPath>
+      <FullPath>C:\Source\PlayerMove\x64\Debug\PlayerMove.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

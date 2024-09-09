@@ -1,26 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\PlayerMove\\",
+  "WorkspaceRootPath": "C:\\Source\\PlayerMove\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{970AD586-82FC-4490-99DC-2C31F72F162D}|PlayerMove.vcxproj|C:\\Users\\admin\\source\\repos\\PlayerMove\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{970AD586-82FC-4490-99DC-2C31F72F162D}|PlayerMove.vcxproj|C:\\Source\\PlayerMove\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{970AD586-82FC-4490-99DC-2C31F72F162D}|PlayerMove.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{970AD586-82FC-4490-99DC-2C31F72F162D}|PlayerMove.vcxproj|C:\\Users\\admin\\source\\repos\\PlayerMove\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{970AD586-82FC-4490-99DC-2C31F72F162D}|PlayerMove.vcxproj|solutionrelative:Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{970AD586-82FC-4490-99DC-2C31F72F162D}|PlayerMove.vcxproj|C:\\Users\\admin\\source\\repos\\PlayerMove\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{970AD586-82FC-4490-99DC-2C31F72F162D}|PlayerMove.vcxproj|solutionrelative:Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{970AD586-82FC-4490-99DC-2C31F72F162D}|PlayerMove.vcxproj|C:\\Users\\admin\\source\\repos\\PlayerMove\\World.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{970AD586-82FC-4490-99DC-2C31F72F162D}|PlayerMove.vcxproj|C:\\Source\\PlayerMove\\World.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{970AD586-82FC-4490-99DC-2C31F72F162D}|PlayerMove.vcxproj|solutionrelative:World.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{970AD586-82FC-4490-99DC-2C31F72F162D}|PlayerMove.vcxproj|C:\\Users\\admin\\source\\repos\\PlayerMove\\World.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{970AD586-82FC-4490-99DC-2C31F72F162D}|PlayerMove.vcxproj|C:\\Source\\PlayerMove\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{970AD586-82FC-4490-99DC-2C31F72F162D}|PlayerMove.vcxproj|solutionrelative:Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{970AD586-82FC-4490-99DC-2C31F72F162D}|PlayerMove.vcxproj|C:\\Source\\PlayerMove\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{970AD586-82FC-4490-99DC-2C31F72F162D}|PlayerMove.vcxproj|solutionrelative:Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{970AD586-82FC-4490-99DC-2C31F72F162D}|PlayerMove.vcxproj|C:\\Source\\PlayerMove\\World.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{970AD586-82FC-4490-99DC-2C31F72F162D}|PlayerMove.vcxproj|solutionrelative:World.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{970AD586-82FC-4490-99DC-2C31F72F162D}|PlayerMove.vcxproj|C:\\Source\\PlayerMove\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{970AD586-82FC-4490-99DC-2C31F72F162D}|PlayerMove.vcxproj|solutionrelative:Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{970AD586-82FC-4490-99DC-2C31F72F162D}|PlayerMove.vcxproj|C:\\Source\\PlayerMove\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{970AD586-82FC-4490-99DC-2C31F72F162D}|PlayerMove.vcxproj|solutionrelative:Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,17 +38,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
+              "Title": "Enemy.cpp",
+              "DocumentMoniker": "C:\\Source\\PlayerMove\\Enemy.cpp",
+              "RelativeDocumentMoniker": "Enemy.cpp",
+              "ToolTip": "C:\\Source\\PlayerMove\\Enemy.cpp",
+              "RelativeToolTip": "Enemy.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-09T06:28:25.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Enemy.h",
+              "DocumentMoniker": "C:\\Source\\PlayerMove\\Enemy.h",
+              "RelativeDocumentMoniker": "Enemy.h",
+              "ToolTip": "C:\\Source\\PlayerMove\\Enemy.h",
+              "RelativeToolTip": "Enemy.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-09T05:37:10.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "World.cpp",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\PlayerMove\\World.cpp",
+              "DocumentMoniker": "C:\\Source\\PlayerMove\\World.cpp",
               "RelativeDocumentMoniker": "World.cpp",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\PlayerMove\\World.cpp",
+              "ToolTip": "C:\\Source\\PlayerMove\\World.cpp",
               "RelativeToolTip": "World.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-09T00:28:38.157Z",
               "EditorCaption": ""
@@ -49,37 +83,37 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "World.h",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\PlayerMove\\World.h",
+              "DocumentMoniker": "C:\\Source\\PlayerMove\\World.h",
               "RelativeDocumentMoniker": "World.h",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\PlayerMove\\World.h",
+              "ToolTip": "C:\\Source\\PlayerMove\\World.h",
               "RelativeToolTip": "World.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-09-09T00:27:14.479Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Player.h",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\PlayerMove\\Player.h",
+              "DocumentMoniker": "C:\\Source\\PlayerMove\\Player.h",
               "RelativeDocumentMoniker": "Player.h",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\PlayerMove\\Player.h",
+              "ToolTip": "C:\\Source\\PlayerMove\\Player.h",
               "RelativeToolTip": "Player.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-09-09T00:13:28.384Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Player.cpp",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\PlayerMove\\Player.cpp",
+              "DocumentMoniker": "C:\\Source\\PlayerMove\\Player.cpp",
               "RelativeDocumentMoniker": "Player.cpp",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\PlayerMove\\Player.cpp",
+              "ToolTip": "C:\\Source\\PlayerMove\\Player.cpp",
               "RelativeToolTip": "Player.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-09T00:13:42.571Z",
               "EditorCaption": ""
@@ -88,11 +122,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\PlayerMove\\Main.cpp",
+              "DocumentMoniker": "C:\\Source\\PlayerMove\\Main.cpp",
               "RelativeDocumentMoniker": "Main.cpp",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\PlayerMove\\Main.cpp",
+              "ToolTip": "C:\\Source\\PlayerMove\\Main.cpp",
               "RelativeToolTip": "Main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-09T00:11:46.97Z",
               "EditorCaption": ""
