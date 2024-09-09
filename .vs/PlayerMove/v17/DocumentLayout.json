@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Source\\PlayerMove\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{970AD586-82FC-4490-99DC-2C31F72F162D}|PlayerMove.vcxproj|C:\\Source\\PlayerMove\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{970AD586-82FC-4490-99DC-2C31F72F162D}|PlayerMove.vcxproj|solutionrelative:Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{970AD586-82FC-4490-99DC-2C31F72F162D}|PlayerMove.vcxproj|C:\\Source\\PlayerMove\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{970AD586-82FC-4490-99DC-2C31F72F162D}|PlayerMove.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{970AD586-82FC-4490-99DC-2C31F72F162D}|PlayerMove.vcxproj|C:\\Source\\PlayerMove\\World.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{970AD586-82FC-4490-99DC-2C31F72F162D}|PlayerMove.vcxproj|solutionrelative:World.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{970AD586-82FC-4490-99DC-2C31F72F162D}|PlayerMove.vcxproj|C:\\Source\\PlayerMove\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{970AD586-82FC-4490-99DC-2C31F72F162D}|PlayerMove.vcxproj|solutionrelative:Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{970AD586-82FC-4490-99DC-2C31F72F162D}|PlayerMove.vcxproj|C:\\Source\\PlayerMove\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -21,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{970AD586-82FC-4490-99DC-2C31F72F162D}|PlayerMove.vcxproj|C:\\Source\\PlayerMove\\World.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{970AD586-82FC-4490-99DC-2C31F72F162D}|PlayerMove.vcxproj|solutionrelative:World.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{970AD586-82FC-4490-99DC-2C31F72F162D}|PlayerMove.vcxproj|C:\\Source\\PlayerMove\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{970AD586-82FC-4490-99DC-2C31F72F162D}|PlayerMove.vcxproj|solutionrelative:Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{970AD586-82FC-4490-99DC-2C31F72F162D}|PlayerMove.vcxproj|C:\\Source\\PlayerMove\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{970AD586-82FC-4490-99DC-2C31F72F162D}|PlayerMove.vcxproj|solutionrelative:Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Enemy.cpp",
               "DocumentMoniker": "C:\\Source\\PlayerMove\\Enemy.cpp",
               "RelativeDocumentMoniker": "Enemy.cpp",
@@ -55,20 +55,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Enemy.h",
               "DocumentMoniker": "C:\\Source\\PlayerMove\\Enemy.h",
               "RelativeDocumentMoniker": "Enemy.h",
               "ToolTip": "C:\\Source\\PlayerMove\\Enemy.h",
               "RelativeToolTip": "Enemy.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-09-09T05:37:10.822Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "World.cpp",
               "DocumentMoniker": "C:\\Source\\PlayerMove\\World.cpp",
               "RelativeDocumentMoniker": "World.cpp",
@@ -81,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "World.h",
               "DocumentMoniker": "C:\\Source\\PlayerMove\\World.h",
               "RelativeDocumentMoniker": "World.h",
@@ -94,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Player.h",
               "DocumentMoniker": "C:\\Source\\PlayerMove\\Player.h",
               "RelativeDocumentMoniker": "Player.h",
@@ -107,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Player.cpp",
               "DocumentMoniker": "C:\\Source\\PlayerMove\\Player.cpp",
               "RelativeDocumentMoniker": "Player.cpp",
@@ -120,13 +120,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Source\\PlayerMove\\Main.cpp",
               "RelativeDocumentMoniker": "Main.cpp",
               "ToolTip": "C:\\Source\\PlayerMove\\Main.cpp",
               "RelativeToolTip": "Main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-09T00:11:46.97Z",
               "EditorCaption": ""
